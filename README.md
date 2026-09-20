@@ -1,4 +1,4 @@
-# Spoofer
+# Roblox-Spoofer
 
 A small Windows console utility that changes the MAC address of a selected
 network adapter and clears Roblox-related cookies from local storage and
