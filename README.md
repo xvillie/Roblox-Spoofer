@@ -1,4 +1,4 @@
-# Roblox-Spoofer
+# Spoofer
 
 A small Windows console utility that changes the MAC address of a selected
 network adapter and clears Roblox-related cookies from local storage and
@@ -65,8 +65,8 @@ For building from source:
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/spoofer.git
-cd spoofer
+git clone https://github.com/xvillie/Roblox-Spoofer.git
+cd Roblox-Spoofer
 ```
 
 Open the solution:
