@@ -227,5 +227,4 @@ If you don't agree with the above — don't use it.
 
 ## License
 
-No license granted — this is published for reference. Fork freely; use
-at your own risk.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
