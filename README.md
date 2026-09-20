@@ -56,7 +56,7 @@ For building from source:
 ### Option A — download the release
 
 1. Go to the [Releases](../../releases) tab.
-2. Download `spoofer.exe` from the latest release.
+2. Download `RobloxSpoofer.exe` from the latest release.
 3. Right-click → **Run as administrator** (or just double-click and
    accept the UAC prompt).
 
