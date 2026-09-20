@@ -1,4 +1,4 @@
-# Spoofer
+# Roblox-Spoofer
 
 A small Windows console utility that changes the MAC address of a selected
 network adapter and clears Roblox-related cookies from local storage and
@@ -131,7 +131,6 @@ Type a number and press Enter.
 ```
 spoofer/
 ├── README.md
-├── CHANGELOG.md
 ├── spoofer.sln
 ├── spoofer/
 │   ├── spoofer.vcxproj
@@ -150,9 +149,6 @@ spoofer/
 │       ├── main.cpp        menu + dispatcher
 │       ├── network.cpp
 │       └── utils.cpp
-└── release/
-    └── build/
-        └── spoofer.exe     shipped binary
 ```
 
 ---
